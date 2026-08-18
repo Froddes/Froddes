@@ -53,8 +53,6 @@
 
 ### 🚀 Proyectos destacados
 
-> Sustituye los enlaces `#` por la URL real del repositorio o la web de cada proyecto en cuanto la tengas a mano.
-
 <table>
   <tr>
     <td width="50%" valign="top"> <h4>📅 Sistema de Gestión de Citas por WhatsApp con IA</h4> <p><b>Cliente:</b> Cittawa (freelance)</p> <p>Automatización conversacional para gestión de citas de peluquerías. Integra <b>WhatsApp Business API (Meta)</b> y <b>Cal.com</b> para agendamiento automático, orquestado en <b>n8n</b> con historial de mensajes en <b>PostgreSQL</b>. Desplegado en infraestructura propia (Raspberry Pi + Docker/Portainer) y expuesto vía <b>Cloudflare Tunnel</b>.</p> <img src="https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" /> <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/-Adminer-34567C?style=flat-square&logo=adminer&logoColor=white" /> <img src="https://img.shields.io/badge/-Cal.com-292929?style=flat-square&logo=googlecalendar&logoColor=white" /> <img src="https://img.shields.io/badge/-Facebook_Developers-1877F2?style=flat-square&logo=facebook&logoColor=white" /> <br/> <a href="https://cittawa.es/">🔗 Ver proyecto</a> · <a href="https://www.instagram.com/cittawa">📷 Instagram</a> </td>
