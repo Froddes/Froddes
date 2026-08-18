@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Cabecera animada con typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2EA3F7&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Francisco+Javier+%F0%9F%91%8B;Desarrollador+Full+Stack+%2B+Automatizaci%C3%B3n+con+IA;Construyo+infraestructura+propia+(Raspberry+Pi+%2B+Docker);Ingenier%C3%ADa+Inform%C3%A1tica+-+Universidad+de+Sevilla" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2EA3F7&center=true&vCenter=true&width=650&lines=Hola%2C+soy+Francisco+Javier+%F0%9F%91%8B;Desarrollador+Full+Stack;Automatizaci%C3%B3n+con+IA;(Raspberry+Pi+%2B+Docker);Ingenier%C3%ADa+Inform%C3%A1tica+-+US" alt="Typing SVG" />
 
 </div>
 
